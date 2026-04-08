@@ -1,6 +1,7 @@
 {
-  "name": "my-ai-app",
+  "name": "katkout-ai-app",
   "version": "1.0.0",
+  "description": "AI Image Generator by Katkout",
   "dependencies": {
     "@capacitor/android": "^5.0.0",
     "@capacitor/cli": "^5.0.0",
